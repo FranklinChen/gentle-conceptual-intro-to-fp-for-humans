@@ -131,19 +131,28 @@
   \begin{alertblock}{There is a catch}
     \begin{itemize}
     \item An FP-tuned standard library and syntax helps \emph{tremendously}.
-    \item Quality 3rd-party libraries can fill in gaps.
+    \item Otherwise, 3rd-party libraries can fill in gaps.
+      \begin{itemize}
+      \item Examples:
+        \begin{itemize}
+        \item JavaScript:
+          \href{https://github.com/facebook/immutable-js}{immutable}
+        \item Python:
+          \href{https://github.com/tobgu/pyrsistent}{pyrsistent}
+        \item Ruby:
+          \href{https://github.com/hamstergem/hamster}{hamster}
+        \item Swift: \href{https://github.com/typelift/swiftz}{Swiftz}
+        \end{itemize}
+      \item Drawbacks:
+        \begin{itemize}
+        \item Lack of normal syntax.
+        \item Possible performance hit interoperating with built-in
+          mutable data structures.
+        \end{itemize}
+      \end{itemize}
     \end{itemize}
   \end{alertblock}
 
-  \begin{block}{My recommendations for getting more into FP}
-    \begin{itemize}
-    \item Start with your current main language: do more FP within
-      it.
-    \item Pick and commit to learning and using \emph{one} of the
-      main FP-optimized languages (next slide).
-    \item Learn incrementally by doing and collaborating with others: translate your existing programming experience into FP style.
-    \end{itemize}
-  \end{block}
 \end{frame}
 
 \begin{frame}{Some languages and their level of support for FP}
@@ -629,11 +638,18 @@
   \begin{itemize}
   \item FP has been around, is becoming more mainstream.
   \item Functions are data.
+  \item Immutable data structures are critical.
   \item Typical FP patterns and architecture differ from OO.
   \end{itemize}
 
-  \begin{block}{Curious to learn and try more FP?}
-    Please fill out the feedback form!
+  \begin{block}{A call to action}
+    \begin{itemize}
+    \item Try out more FP within your current main language.
+    \item Pick and commit to learning and using \emph{one} of the
+      main FP-optimized languages.
+    \item Use the Pittsburgh FP group for help.
+    \item Please fill out the feedback form!
+    \end{itemize}
   \end{block}
 \end{frame}
 
