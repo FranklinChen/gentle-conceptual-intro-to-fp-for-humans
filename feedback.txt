@@ -1,0 +1,66 @@
+Comments and suggestions, "A gentle conceptual intro to FP for Humans"
+
+
+* How effectively did the speaker communicate to you?
+
+
+
+
+* How well did the presentation meet your expectations?
+
+
+
+
+* What did you learn that you will go and make use of?
+
+
+
+
+* What was the most enjoyable part of the presentation?
+
+
+
+
+* What was the most boring part of the presentation?
+
+
+
+
+* What are your current main programming languages/frameworks?
+
+
+
+
+* Which language(s) are you most interested in learning and using?
+
+
+
+
+* Which of the following would you like Pittsburgh FP to offer in the future?
+
+[ ] Talks about specific topics: ______________________________________________________
+
+
+    ___________________________________________________________________________________
+
+
+[ ] Hands-on workshops: _______________________________________________________________
+
+
+    ___________________________________________________________________________________
+
+
+[ ] Study groups: _____________________________________________________________________
+
+
+    ___________________________________________________________________________________
+
+* Have you joined the Pittsburgh FP
+
+[ ] Mailing list?
+
+    https://groups.google.com/forum/#!forum/pittsburgh-functional-programing-group
+
+[ ] Slack chat site?
+
+    https://pghfp.slack.com/

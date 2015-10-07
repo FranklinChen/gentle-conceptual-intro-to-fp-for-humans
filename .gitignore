@@ -1,0 +1,11 @@
+auto
+_minted-*
+*_latexmk
+*.fls
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
